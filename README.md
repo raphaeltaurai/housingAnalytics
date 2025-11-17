@@ -2,7 +2,7 @@
 
 {A housing market analytics application. }
 
-{Analyzes housing market data to identify price trends, housing demand, and regional variations.}
+{Analyzes housing market data to identify price trends, housing demand, and regional variations, for school}
 
 {I am working on a housing app and the application will rely heavily on the results from the analytics yielded from this application's api.}
 
@@ -20,4 +20,5 @@
 
 {Make a list of websites that you found helpful in this project}
 * [Web Site Name](https://docs.python.org/3/tutorial/index.html)
+
 * [Web Site Name](https://pandas.pydata.org/getting_started.html)
